@@ -1,0 +1,1 @@
+note that academicons will not compile using pdflatex, switched to lualatex

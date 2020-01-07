@@ -1,0 +1,156 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv-copy.tex
+geometry: margin=1in
+
+title: "CV"
+author: William J. Wheeler
+orcid: "orcid.org/0000-0002-9577-6885"
+jobtitle: "Environmental Economist, U.S. EPA"
+address: "Address · Arlington · VA 22205"
+fontawesome: yes
+email: wheeler.william@epa.gov
+github: willwheels
+phone: "202-566-2264"
+web: 'willwheels.rbind.io/'
+twitter: 'willwheels'
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*The Pennsylvania State University*, Ph.D. Agricultural Economics \hfill 1997
+
+*The Pennsylvania State University*, M.S. Policy Analysis \hfill 1992
+
+*Virginia Tech*, B.A. History \hfill 1990
+
+# EMPLOYMENT
+
+*U.S. Environmental Protection Agency*: \hfill 1997–present
+
+ > National Center for Environmental Economics \hfill 2008–present
+ 
+ > Office of Enforcement and Compliance Assurance (20 percent assignment) \hfill 2016-2017
+ 
+ > Office of Research and Development (STAR Grant Program) \hfill 2002-2008 
+ 
+ > Office of Water \hfill 1997-2002
+
+ 
+# PUBLICATIONS
+
+## **Journal Articles**
+
+Stephen Newbold, David Simpson, Matt Massey, Matthew T. Heberling, William Wheeler, Joel Corona, and Julie Hewitt. 2018. Benefit Transfer Challenges: Perspectives from U.S. Practitioners. *Environmental and Resource Economics*, 69(3): 467-481.
+
+Patrick Walsh and William Wheeler. Water quality indices and benefit-cost analysis. 2013. *Journal of Benefit-Cost Analysis*, 4(1):81–105.
+		EPA Scientific and Technological Achievement Award Honorable Mention, 2016
+
+Charles Griffiths, Heather Klemick, Matt Massey, Chris Moore, Steve Newbold, David Simpson, Patrick Walsh, and William Wheeler. 2012. U.S. Environmental Protection Agency valuation of surface water quality improvements. *Review of Environmental Economics and Policy*, 6(1):130–146.
+
+## **Book Chapters**
+
+Wheeler, William J. 2015. Benefit Transfer for Water Quality Regulatory Rulemaking in the United States. In *Benefit Transfer of Environmental and Resource Values*, pages 101-115.
+
+Chris Dockins and William Wheeler. Lessons from risk assessment, economics, and risk management at EPA. In *Benefit Cost Analyses for Security*, pages 63–75. 2015
+
+William J Wheeler. Benefit transfer for water quality regulatory rulemaking in the united states. In *Benefit Transfer of Environmental and Resource Values*, pages 101–115. Springer Netherlands, 2015
+
+C Griffiths and W Wheeler. Benefit–cost analysis of regulations affecting surface water quality in the united states. In *Cost–Benefit Analysis and Water Resources Management*, pages 223–250. 2005.
+
+## **Proceedings**
+Reneé Selinsky Johnson, William J. Wheeler, and Lee A. Christensen. EPA’s approach to controlling pollution from animal feeding operations: an economic analysis. American Journal of Agricultural Economics, 81(5):1216–1221, 1999.
+
+Ann Fisher, William J. Wheeler, and Rami Zwick. Experimental methods in agricultural and resource economics: How useful are they? Agricultural and Resource Economics Review, 22(2):103–116, 1993.
+
+## **EPA Reports**
+U.S. EPA. Environmental Economics Research Strategy. Technical report, U.S. Environmental Protection Agency, 2005.
+
+## **Working Papers**
+Ann Wolverton, Charles Griffiths, and William Wheeler. “Evaluating the Effectiveness of Voluntary Programs: Did Ohio’s Tox-Minus Initiative Affect Participants’ TRI Emissions?” Technical report, National Center for Environmental Economics, US Environmental Protection Agency, 2016. https://www.epa.gov/environmental-economics/working-paper-evaluating-effectiveness-voluntary-programs-did-ohios-tox
+
+Wheeler, William and Chris Dockins. “Meta-Analysis and Publication Bias in the Hedonic Wage Literature.” Paper presented at the 2013 AAEA Annual Meeting, August 4-6, 2013, Washington, DC. https://ageconsearch.umn.edu/bitstream/150725/2/Publication%20Bias%20in%20the%20Hedonic%20Wage%20Literature%20Ageconsearch%20upload.pdf
+
+## **Works in Progress**
+“The Effects of Clean Water Act Authorization on Facility Performance: An Examination of Environmental Federalism”
+
+“Opportunities and Pitfalls with EPA Data: Perspectives from Inside and Outside the Agency” (joint with Jay Shimshack and many others; paper solicited based on a proposal to the Review of Environmental Economics and Policy)
+
+
+# **SELECTED PRESENTATIONS**
+
+“Quasi-Fixed Labor Costs in Social Cost Calculations.” 2019 SBCA Meetings, Washington, DC.
+
+“Wetland Benefits from Definitional Changes of Waters of the United States.” Discussant, 2019 SBCA Meetings, Washington, DC.
+
+“Writing Grants is a Skill: Tips for Success,” part of “Tips for Students and Newish Economists” Panel, AERE Sessions at the 2018 SEA Meetings, Washington, DC.
+
+“The Effects of Clean Water Act Authorization on Facility Performance: An Examination of Environmental Federalism.” AERE Sessions at the 2018 SEA Meetings, Washington, DC.
+
+“Delegation of NPDES Authority to the State of Alaska.” 2018 SBCA meetings, Washington, DC.
+
+“Opportunities and Pitfalls with EPA Data: Perspectives from Inside and Outside the Agency,” 2017 AERE meetings, Pittsburgh, PA.
+
+“How can researchers and agencies work best together? Results from an informal survey of agency personnel,” Workshop on Research on Effective Government: A Workshop on Evaluating Innovative Approaches to Fostering Environmental Compliance, January 2017.
+
+“The Effect of Water Quality Characterization on Recreation Demand Model Results,” 2017 SBCA Meetings, Washington, DC.
+
+“Improving the Valuation of Water Quality,” 2015 SBCA meetings, Washington, DC
+“Deterrence Effects of Inspections and Enforcement”, 2015 Joint NAREA and CAES meetings, Newport, RI.
+
+"The Impact of Inspections and Enforcement on Compliance: An Update,"  2015, AERE Session at the SEA.
+
+“Top Ten Tips for Young Economists: Teaching, Research and Service Panel” at the 2014 SEA meeting, AERE session, Atlanta GA.
+
+"Meta-Analysis and Publication Bias in the Hedonic Wage Literature" 2014 SEA meeting, AERE session, Atlanta, GA.
+
+"Optimal Fines When Oil Spills Are Random", 2014 SEA meeting, AERE session, Atlanta, GA.
+
+“Evaluating the Effectiveness of Voluntary Programs: Did Ohio’s ToxMinus Program Affect Participants’ TRI Emissions?” NAREA Annual Meetings 2013, Ithaca, NY; invited seminar at the University of Maryland, Agricultural and Resource Economics Department, November 2014.
+
+“Grant Writing Best Practices,” Early Career Mentoring Workshop at the 2011 AAEA & NAREA Joint Annual Meeting, Pittsburgh, PA.
+
+“The Effect of Estimation Basis On Reported TRI Releases,” the 2011 AAEA & NAREA Joint Annual Meeting, Pittsburgh, PA.
+
+"The Effect of the Measurement Versus Estimation on the Level of Reported Toxic Releases", AERE session at the SEA, 2011, Washington, DC; and APPAM Meetings, 2011, Washington, DC.
+
+“Top Ten Tips for Young Economists: Teaching, Research and Service,” AERE session at the 2011 SEA Meetings, Washington, DC.
+
+Discussant, 2011 AERE Session at the 2011 SEA Meetings, Washington, DC.
+ 
+“The Use of Ecological Indexes and Indicators in Water Quality Valuation: Water Quality Index Aggregation and Cost Benefit Analysis”, 2011 SBCA Meetings, Washington, DC
+Session Comments on “Benefit Transfer: An International Perspective”, 2010 World Congress of Environmental and Resource Economists, Montreal, CA.
+
+“The Use of Ecological Indexes and Indicators in Water Quality Valuation: Water Quality Index Aggregation and Cost Benefit Analysis”, 2010 NAREA Meetings, Atlantic City, NJ.
+
+“Policy Roundtable: Risk Assessment and Management at EPA,” Estimating the Benefits of Homeland Security Policies Workshop for the Department of Homeland Security, September 23, 2010.
+
+# **SERVICE**
+
+Northeastern Agricultural and Resource Economics Association: Government Representative to the Board (2008 to 2015), President-Elect (2015-2016), President (2016-2017), and Past-President (2017-2018).
+
+Association of Environmental and Resource Economists: Outstanding Dissertation Award Committee (2014-2016)
+
+Reviewer:
+
+Agricultural and Resource Economics Review; American Journal of Agricultural Economics; Environmental Science and Technology; Journal of the American Water Resources Association; Journal of Benefit-Cost Analysis; Journal of Water and Health; Resource and Energy Economics
+
+AERE Summer Conference; World Congress of Environmental Economists; 
+
+Department of Homeland Security, Office of University Programs; U.S. EPA, National Center for Environmental Research (STAR Grants)
+
+
+# HONORS and AWARDS
+
+Eight Agency Bronze Medals for Commendable Service, Agency Gold Medal for Exceptional Service, Office of Water Partners of OW Award 
