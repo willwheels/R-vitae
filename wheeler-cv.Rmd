@@ -52,12 +52,16 @@ urlcolor: blue
 
 ## **Journal Articles**
 
+Joel Corona, Todd Doley, Charles Griffiths, Matthew Massey, Chris Moore, Stephen Muela, Brenda Rashleigh, William Wheeler, Stephen D. Whitlock, Julie Hewitt. 2020 (forthcoming). An Integrated Assessment Model for Valuing Water Quality Changes in the U.S. *Land Economics*
+
 Stephen Newbold, David Simpson, Matt Massey, Matthew T. Heberling, William Wheeler, Joel Corona, and Julie Hewitt. 2018. Benefit Transfer Challenges: Perspectives from U.S. Practitioners. *Environmental and Resource Economics*, 69(3): 467-481.
 
 Patrick Walsh and William Wheeler. Water quality indices and benefit-cost analysis. 2013. *Journal of Benefit-Cost Analysis*, 4(1):81–105.
 		EPA Scientific and Technological Achievement Award Honorable Mention, 2016
 
+
 Charles Griffiths, Heather Klemick, Matt Massey, Chris Moore, Steve Newbold, David Simpson, Patrick Walsh, and William Wheeler. 2012. U.S. Environmental Protection Agency valuation of surface water quality improvements. *Review of Environmental Economics and Policy*, 6(1):130–146.
+
 
 ## **Book Chapters**
 
