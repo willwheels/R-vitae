@@ -52,7 +52,7 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Joel Corona, Todd Doley, Charles Griffiths, Matthew Massey, Chris Moore, Stephen Muela, Brenda Rashleigh, William Wheeler, Stephen D. Whitlock, Julie Hewitt. 2020 (forthcoming). An Integrated Assessment Model for Valuing Water Quality Changes in the U.S. *Land Economics*, 96(4)
+Joel Corona, Todd Doley, Charles Griffiths, Matthew Massey, Chris Moore, Stephen Muela, Brenda Rashleigh, William Wheeler, Stephen D. Whitlock, Julie Hewitt. 2020 (forthcoming). An Integrated Assessment Model for Valuing Water Quality Changes in the U.S. *Land Economics*, 96(4): 478-492.
 		EPA Achievement in Science and Technology Award, 2020
 		
 Stephen Newbold, David Simpson, Matt Massey, Matthew T. Heberling, William Wheeler, Joel Corona, and Julie Hewitt. 2018. Benefit Transfer Challenges: Perspectives from U.S. Practitioners. *Environmental and Resource Economics*, 69(3): 467-481.
@@ -94,6 +94,10 @@ Wheeler, William and Chris Dockins. “Meta-Analysis and Publication Bias in the
 
 
 # **SELECTED PRESENTATIONS**
+
+“Do Reminders Increase on-Time Reporting of Environmental Data? an Examination of EPA’s NetDMR System.” AERE Sessions at the 2020 SEA Meetings, APPAM 2020 Fall Research Conference. Virtual. 
+
+“Quantitative Similarity in Benefit Transfer.” 2019 AERE Meetings, Lake Tahoe, CA.
 
 “Quasi-Fixed Labor Costs in Social Cost Calculations.” 2019 SBCA Meetings, Washington, DC.
 
